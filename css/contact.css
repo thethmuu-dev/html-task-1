@@ -1,0 +1,37 @@
+.input_field {
+    width: 480px;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 2rem;
+}
+
+.font-size {
+    font-size: 1.2rem;
+}
+
+.detail{
+    height:7rem;
+    width: 150px;
+}
+
+#content {
+    height: 7rem;
+}
+
+#submit-btn {
+    padding: .5rem 1rem;
+    font-size: 2rem;
+    color: #fff;
+    display: block;
+    margin: 0 auto;
+    background-color: #139160;
+    border: none;
+    border-radius: 5px;
+}
+
+#submit-btn:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
